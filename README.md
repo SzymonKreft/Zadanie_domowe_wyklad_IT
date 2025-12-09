@@ -2,8 +2,8 @@
 To jest moje przykładowe repozytorium stworzone na potrzeby zadania.
 
 ## Autor projektu
-** Szymon Kreft **
-numer indeksu: 208640
+Szymon Kreft  
+numer indeksu: 208640  
 grupa: 4A
 
 ## O Projekcie 

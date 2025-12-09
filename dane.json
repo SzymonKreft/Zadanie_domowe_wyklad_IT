@@ -1,0 +1,7 @@
+{
+    "cel": "przykładowe dane do pliku json",
+    "imie": "Szymon",
+    "nazwisko": "Kreft",
+    "status czegos": true,
+    "status czegos innego": false
+}
